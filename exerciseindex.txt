@@ -1,0 +1,3 @@
+exercise=  {basic part 1, basic part 2, string,json,list,dictionary,tuples , sets, arrays ,conditional statement and loops) {count 3}
+exercise 2={functions,datetime, class,recursion,math,file I/o,regular expression} {count 5}
+
