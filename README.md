@@ -1,0 +1,4 @@
+# pythonexercise
+
+
+python practicing exercise

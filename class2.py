@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class numbertoroman:
     def toRoman(self, num):
         val = [
@@ -24,3 +25,7 @@ class numbertoroman:
 
 print(numbertoroman().toRoman(1))
 print(numbertoroman().toRoman(4000))
+=======
+import roman;
+n=roman.fromRoman("X"); 
+>>>>>>> d700edb24eb5c3a61afa54a665cdfc945bc16d89
